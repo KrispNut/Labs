@@ -2,7 +2,7 @@
 Welcome to my Lab Dump for this course. It's where I will dump all my assignments and projects, hopefully.
 
 Lab - 3
-https://www.figma.com/file/jg5NWj7pUFCJajnj6iDSXR/Lab3?type=design&mode=design&t=2b3ELzTjeSw4L3Tz-1
+https://www.figma.com/file/yr30iuvMKzWK5s3wz4XRa8/Lab-3?type=design&node-id=1%3A519&mode=design&t=UAEj2N07hHYCY9Jd-1
 
 Lab - 4
 https://www.figma.com/file/jg5NWj7pUFCJajnj6iDSXR/Untitled?type=design&node-id=0%3A1&mode=design&t=KySzlHSWo9jrkKYC-1
